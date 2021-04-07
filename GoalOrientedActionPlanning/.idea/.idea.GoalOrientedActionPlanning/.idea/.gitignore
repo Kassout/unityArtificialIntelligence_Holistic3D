@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.GoalOrientedActionPlanning.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\__PROJETS\__GITHUB\unityArtificialIntelligence_Holistic3D\GoalOrientedActionPlanning\.idea\.idea.GoalOrientedActionPlanning\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
