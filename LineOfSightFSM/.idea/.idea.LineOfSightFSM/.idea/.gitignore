@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.LineOfSightFSM.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\__PROJETS\__GITHUB\unityArtificialIntelligence_Holistic3D\LineOfSightFSM\.idea\.idea.LineOfSightFSM\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
